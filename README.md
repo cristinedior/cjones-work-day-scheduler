@@ -33,6 +33,8 @@ THEN the saved events persist
 
 Deployed Site: 
 
+![127 0 0 1_5500_prework-study-guide_cjones-work-day-scheduler_Develop_index html](https://github.com/cristinedior/cjones-work-day-scheduler/assets/148567509/c4b4f326-a9a1-465b-a403-9719ca762a61)
+
 
 ## License
 This Study Guide Web Application is licensed under the [MIT License](link-to-license). You are free to use, modify, and distribute it for educational purposes.
