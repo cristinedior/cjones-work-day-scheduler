@@ -31,7 +31,7 @@ THEN the saved events persist
 
 ## Screenshot of Workday Scheduler
 
-Deployed Site: 
+Deployed Site: https://cristinedior.github.io/cjones-work-day-scheduler/
 
 ![127 0 0 1_5500_prework-study-guide_cjones-work-day-scheduler_Develop_index html](https://github.com/cristinedior/cjones-work-day-scheduler/assets/148567509/c4b4f326-a9a1-465b-a403-9719ca762a61)
 
